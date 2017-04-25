@@ -1,6 +1,6 @@
 # npmdoc-express-logger
 
-#### api documentation for  [express-logger (v0.0.3)](http://github.com/joehewitt/express-logger)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-logger.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-logger)
+#### basic api documentation for  [express-logger (v0.0.3)](http://github.com/joehewitt/express-logger)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-logger.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-logger)
 
 #### Express middleware for auto-archiving log files.
 
